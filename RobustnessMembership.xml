@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RobustnessMembership" project="MembershipRanking" tests="19" started="19" failures="15" errors="0" ignored="0">
+  <testsuite name="sqa.test.RobustnessMembership" time="0.024" displayname="RobustnessMembership" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]">
+    <testcase name="testTC014" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC014" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC014(sqa.test.RobustnessMembership)]"/>
+    <testcase name="testTC015" classname="sqa.test.RobustnessMembership" time="0.0" displayname="testTC015" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC015(sqa.test.RobustnessMembership)]"/>
+    <testcase name="testTC016" classname="sqa.test.RobustnessMembership" time="0.01" displayname="testTC016" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC016(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC016(RobustnessMembership.java:29)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC017" classname="sqa.test.RobustnessMembership" time="0.0" displayname="testTC017" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC017(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Gold</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;[Gold]&gt; but was:&lt;[Silver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC017(RobustnessMembership.java:36)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC018" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC018" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC018(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC018(RobustnessMembership.java:43)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC019" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC019" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC019(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC019(RobustnessMembership.java:50)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC020" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC020" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC020(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC020(RobustnessMembership.java:56)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC021" classname="sqa.test.RobustnessMembership" time="0.0" displayname="testTC021" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC021(sqa.test.RobustnessMembership)]"/>
+    <testcase name="testTC022" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC022" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC022(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC022(RobustnessMembership.java:70)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC023" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC023" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC023(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC023(RobustnessMembership.java:77)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC024" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC024" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC024(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Gold</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;[Gold]&gt; but was:&lt;[Silver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC024(RobustnessMembership.java:84)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC025" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC025" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC025(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC025(RobustnessMembership.java:91)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC026" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC026" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC026(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC026(RobustnessMembership.java:98)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC027" classname="sqa.test.RobustnessMembership" time="0.0" displayname="testTC027" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC027(sqa.test.RobustnessMembership)]"/>
+    <testcase name="testTC028" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC028" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC028(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC028(RobustnessMembership.java:112)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC029" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC029" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC029(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC029(RobustnessMembership.java:119)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC030" classname="sqa.test.RobustnessMembership" time="0.0" displayname="testTC030" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC030(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Gold</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;[Gold]&gt; but was:&lt;[Silver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC030(RobustnessMembership.java:126)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC031" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC031" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC031(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC031(RobustnessMembership.java:133)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testTC032" classname="sqa.test.RobustnessMembership" time="0.001" displayname="testTC032" uniqueid="[engine:junit-vintage]/[runner:sqa.test.RobustnessMembership]/[test:testTC032(sqa.test.RobustnessMembership)]">
+      <failure>
+        <expected>Standard</expected>
+        <actual>Silver</actual>
+        org.junit.ComparisonFailure: expected:&lt;S[tandard]&gt; but was:&lt;S[ilver]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:117)&#13;
+	at org.junit.Assert.assertEquals(Assert.java:146)&#13;
+	at sqa.test.RobustnessMembership.testTC032(RobustnessMembership.java:140)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+  </testsuite>
+</testrun>
